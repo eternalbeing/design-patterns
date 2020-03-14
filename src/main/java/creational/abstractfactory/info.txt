@@ -1,0 +1,1 @@
+Abstract Factory “provides an interface for creating families of related or dependent objects without specifying their concrete classes”. In other words, this model allows us to create objects that follow a general pattern.

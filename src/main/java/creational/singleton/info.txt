@@ -1,0 +1,3 @@
+The Singleton Design Pattern aims to keep a check on initialization of objects of a particular class by ensuring that only one instance of the object exists throughout the Java Virtual Machine.
+
+the constructor has the private access modifier. This is a requirement for creating a Singleton since a public constructor would mean anyone could access it and start creating new instances.
